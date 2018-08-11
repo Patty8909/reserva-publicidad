@@ -1,0 +1,9 @@
+nav {
+  padding: 0px 40px;
+  background-color: #FF5000;
+}
+
+nav .logo {
+  width: 200px;
+  vertical-align: middle;
+}
